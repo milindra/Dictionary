@@ -1,4 +1,7 @@
 # Dictionary
 
-Here we add some useful word's which we can use in our daily life.
-changing the world
+Add the word with there meaning. Word should initiate with # and in the next line word meaning are written.
+
+Example:-
+
+#preta Hindu Mythology. a wandering or disturbed ghost.
